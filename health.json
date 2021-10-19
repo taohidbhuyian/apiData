@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Nephrologist Care",
+    "id": 1,
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/Nephrologist-Care-400x400.jpg",
+    "description": "Tell me why, I love you like I do. Tell me who, could stop my heart as much as you. Let’s take each other’s hand, as we jump into the final frontier. Mad about you baby, yeah, I’m mad about you. Whoo hoo hoo. It seems today that all you see is violence in movies and sex on tv, but where are those good old-fashioned values on which we used to rely? Lucky there’s a family guy, lucky there’s a man who positively can do all the things that make us laugh and cry – he’s our family guy!",
+    "phone": "+1 (900) 439-2891",
+    "registered": "2014-06-23T04:41:41 -06:00"
+  },
+  {
+    "name": "Eye Care",
+    "id": 2,
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/Facility-Optic-400x400.jpg",
+    "description": "Well we’re movin’ on up, to the east side. To a deluxe apartment in the sky. Movin’ on up, To the east side. We finally got a piece of the pie. Fish don’t fry in the kitchen, beans don’t burn on the grill. Took a whole lotta tryin’ just to get up that hill. Now we’re up in the big leagues, gettin’ our turn at bat. As long as we live, it’s you and me baby, There ain’t nothin’ wrong with that. Well we’re movin’ on up, to the east side. To a deluxe apartment in the sky. Movin’ on up, to the east side. We finally got a piece of the pie.",
+    "phone": "+1 (857) 434-3130",
+    "registered": "2014-03-31T10:30:42 -06:00"
+  },
+  {
+    "name": "Medical Counseling",
+    "id": 3,
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2015/02/service-11-400x400.jpg",
+    "description": "Sometimes the world looks perfect, nothing to rearrange. Sometimes you just, get a feeling like you need some kind of change. No matter what the odds are this time, nothing’s going to stand in my way. This flame in my heart, and a long lost friend gives every dark street a light at the end. Standing tall, on the wings of my dream. Rise and fall, on the wings of my dream. The rain and thunder, the wind and haze. I’m bound for better days. It’s my life and my dream, nothing’s going to stop me now.",
+    "phone": "+1 (942) 543-2754",
+    "registered": "2014-01-03T11:48:02 -06:00"
+  },
+  {
+    "name": "Pediatrician care",
+    "id": 4,
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/02/Depositphotos_11882261_original-400x400.jpg",
+    "description": "My kinda people, my kinda place. There’s something special about this place. Got no reason to stray too far, ’cause it’s all right here in my own backyard! This is a Burger King town, it’s made just for me! This is a Burger King town, we know how burgers should be! Right up the road, left at the sign. My way, your way, one at a time, hot off the fire with anything on it! And don’t it feel good when it’s just how you want it? This is a Burger King town, it’s made just for me! This is a Burger King town, we know how burgers should be!",
+    "phone": "+1 (940) 467-2166",
+    "registered": "2016-03-31T11:02:23 -06:00"
+  },
+  {
+    "name": "Prenatal Care",
+    "id": 5,
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2016/04/prenatal-care-400x400.jpg",
+    "description": "In an age when nature and magic rule the world, there is an extraordinary legend: the story of a warrior who communicates with animals, who fights sorcery and the unnatural. His name is Dar, last of his tribe. He is also called Beastmaster. You unlock this door with the key of imagination. Beyond it is another dimension: a dimension of sound, a dimension of sight, a dimension of mind. You’re moving into a land of both shadow and substance, of things and ideas; you’ve just crossed over into the Twilight Zone.",
+    "phone": "+1 (934) 544-2248",
+    "registered": "2019-01-07T10:16:37 -06:00"
+  },
+  {
+    "name": "Competitive Doctors",
+    "id": 6,
+    "img": "http://demo2.themewarrior.com/hospitalplus/wp-content/uploads/sites/22/2015/01/service-5-400x400.jpg",
+    "description": "In an age when nature and magic rule the world, there is an extraordinary legend: the story of a warrior who communicates with animals, who fights sorcery and the unnatural. His name is Dar, last of his tribe. He is also called Beastmaster. In time of ancient gods, warlords and kings, a land in turmoil cried out for a hero. She was Xena, a mighty princess forged in the heat of battle. The power. The passion. The danger. Her courage will change the world.",
+    "phone": "+1 (802) 570-2466",
+    "registered": "2014-06-27T08:50:20 -06:00"
+  }
+]
